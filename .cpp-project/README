@@ -1,0 +1,21 @@
+***********Welcome to the repository for our Vehicle Attendance System App! *****************
+
+
+This application leverages RFID sensors, NodeMCU, and a combination of C++, PHP, HTML, and
+ CSS to provide a robust solution for attendance tracking system.
+
+This Attendance System App aims to streamline the process of recording attendance of vehicles
+ in the intention of monitoring and keeping of vehicle movements within a particular place. 
+ By utilizing RFID sensors and NodeMCU, we have created a reliable and efficient system that 
+allows users to easily manage attendance records.
+
+
+The core functionality of the app revolves around RFID technology, which enables quick and 
+accurate identification of individuals. When a user swipes/passes their RFID card or tag 
+mounted on the car, the system captures the unique identifier associated with it. 
+This information is then processed by the NodeMCU, which communicates with the backend using 
+the C++ programming language.
+
+On the web development side, i have employed a combination of PHP, HTML, and CSS to create 
+an intuitive and user-friendly interface for administrators and users. The web application provides
+comprehensive features for managing attendance data, generating reports, and monitoring attendance trends.
